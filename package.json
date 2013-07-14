@@ -30,8 +30,9 @@
       "firefox/10..latest",
       "safari/latest",
       "opera/11.0..latest",
-      "iphone/6", "ipad/6",
-      "android-browser/4.2",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/4.2"
     ],
     "harness" : "mocha",
     "files": "test/*.js"
