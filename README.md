@@ -1,6 +1,8 @@
 # simplify-geometry
 [![Build Status](https://travis-ci.org/seabre/simplify-geometry.png)](https://travis-ci.org/seabre/simplify-geometry)
 
+[![browser support](https://ci.testling.com/seabre/simplify-geometry.png)](https://ci.testling.com/seabre/simplify-geometry)
+
 Simplify geometry using the [Ramer–Douglas–Peucker algorithm](http://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm).
 
 If you need to simplify geometries, for instance reducing the number of points in a polygon, this will help you. You could use this in [Leaflet](https://github.com/Leaflet/Leaflet) and I do have browser builds, but they have not been tested.

@@ -23,6 +23,19 @@
     "email": "sean@saidigital.co",
     "url": "https://github.com/seabre"
   },
+  "testling": {
+    "browsers": [
+      "ie/6..latest",
+      "chrome/20..latest",
+      "firefox/10..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6", "ipad/6",
+      "android-browser/4.2",
+    ],
+    "harness" : "mocha",
+    "files": "test/*.js"
+  },
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
