@@ -1,6 +1,6 @@
 {
   "name": "simplify-geometry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simplify geometry using the Ramer–Douglas–Peucker algorithm.",
   "main": "./lib/index.js",
   "directories": {
@@ -20,7 +20,7 @@
   ],
  "author": {
     "name": "Sean Brewer",
-    "email": "sean@saidigital.co",
+    "email": "seabre986@gmail.com",
     "url": "https://github.com/seabre"
   },
   "testling": {

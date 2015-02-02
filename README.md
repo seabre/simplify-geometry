@@ -29,8 +29,8 @@ Output:
 
 Browser builds are built with [Browserify](https://github.com/substack/node-browserify), and tested in various browsers with [Testling](https://ci.testling.com/):
 
-* https://github.com/seabre/simplify-geometry/blob/master/simplifygeometry-0.0.1.js
-* https://github.com/seabre/simplify-geometry/blob/master/simplifygeometry-0.0.1.min.js
+* https://github.com/seabre/simplify-geometry/blob/master/simplifygeometry-0.0.2.js
+* https://github.com/seabre/simplify-geometry/blob/master/simplifygeometry-0.0.2.min.js
 
 You can see an example here, which uses Leaflet: http://seabre.github.io/simplify-geometry/
 
